@@ -6,7 +6,7 @@ For Cleaning area or stuff from virus , spore , bacteria.
 
 # Covid Slayer - Flutter Controller UI
 This Project is part of covid slayer (IOT).
-
-
-# More Information #
 On development..
+
+
+
